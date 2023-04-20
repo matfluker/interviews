@@ -12,6 +12,7 @@
 ## Table of Contents
 - [YouTube](#youtube)
 - [The Daily Byte](#the-daily-byte)
+- [Mat Fluker] (#mat-fluker)
 - [Instagram](#instagram)
 - [Articles](#articles)
 - [Online Judges](#online-judges)
@@ -51,6 +52,7 @@
 * [Code Chef](https://www.codechef.com/)
 * [Sphere Online Judge - SPOJ](http://www.spoj.com/)
 * [InterviewBit](https://www.interviewbit.com/)
+* [Mat Fluker] (https://www.matfluker.com)
 
 ## Live Coding Practice
 * [Pramp](https://www.pramp.com/ref/gt4)
